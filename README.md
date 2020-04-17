@@ -34,6 +34,10 @@ All of the Notebooks consists of clear and crisp explanation and definitions of 
 
 In case of any Queries or Doubts, please reach me out on Linkedin
 My Linkedin Profile: https://www.linkedin.com/in/roshansharmadatascience/
+
+&nbsp;
+
 My Email Id: roshansharma.datascience@gmail.com
 
 Happy Machine Learning!
+Thank you.
