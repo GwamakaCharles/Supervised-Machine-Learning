@@ -2,6 +2,9 @@
 
 Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training example
 
+The Repository includes all the popular Machine Learning Algorithms Implemented using Sklearn and supported with Proper documentation, explanations, and diagrams.
+
+The Repository consists of Two Modules Namely Classification which Includes Logistic Regression, Decision Trees, Support Vector Machines, K Nearest Neighbors, Random Forest, XgBoost, Light Gradient Boosting. and Regression Module which consists of Linear Regression, Ridge, Lasso and Elastic Net.
 
 ![image](https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/introduction-to-machine-learning_social.png?1510178550)
 
