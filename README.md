@@ -33,7 +33,7 @@ The Contents Inccluded in this Tutorial are Listed below:
 All of the Notebooks consists of clear and crisp explanation and definitions of all of the required concepts with the support of python code with the help of Sklearn which is one of the most popular and highly acclaimed Python Machine Learning Library used for Machine Learning.
 
 * In case of any Queries or Doubts, please reach me out on Linkedin.
- * My Linkedin Profile: https://www.linkedin.com/in/roshansharmadatascience/
+My Linkedin Profile: https://www.linkedin.com/in/roshansharmadatascience/
 
 * My Email Id: roshansharma.datascience@gmail.com
- * Happy Machine Learning, and have a Nice Day!
+Happy Machine Learning, and have a Nice Day!
