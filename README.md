@@ -38,6 +38,4 @@ My Linkedin Profile: https://www.linkedin.com/in/roshansharmadatascience/
 &nbsp;
 
 My Email Id: roshansharma.datascience@gmail.com
-
-Happy Machine Learning!
-Thank you.
+Happy Machine Learning, and have a Nice Day!
